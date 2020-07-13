@@ -1,2 +1,2 @@
-# FaceExpressionRecognition
-A deep learning project to detect the face expression based on TensorFlow framework
+# Face Expression Recognition
+A deep learning project[1] to detect the face expressions based on TensorFlow framework.
