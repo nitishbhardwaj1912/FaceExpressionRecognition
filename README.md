@@ -61,6 +61,10 @@ It took me around 30 minutes to train and validate the model on GPU: 4 GB Nvidia
   <img src="Images\Accuracy.png" alt="Accuracy and Loss Graph">
 </p>
 
+## Code for created model and weights can be viewed at this link:
+https://nitishbhardwaj1912.github.io/FaceExpressionRecognition/
+
+
 ## References:
 [1] Coursera. 2020. Project Certificate. [online] Available at: <https://www.coursera.org/account/accomplishments/records/ZXZMTPWDD9EF> [Accessed 8 July 2020].
 
