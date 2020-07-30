@@ -1,6 +1,10 @@
 # Face Expression Recognition
 A Deep Learning project[1] to detect the face expressions based on TensorFlow framework.
 
+<p align="center">
+  <img src="Images\NitishFaceExpression.gif" alt="Sample Face Expression Image">
+</p>
+
 ## Project Tasks
 * Develop a facial expression recognition model in Keras
 * Build and train a convolutional neural network (CNN)
