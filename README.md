@@ -2,7 +2,7 @@
 A Deep Learning project[1] to detect the face expressions based on TensorFlow framework.
 
 <p align="center">
-  <img width="500" height="600" src="Images\NitishFaceExpression.gif" alt="Sample Face Expression Image">
+  <img width="500" height="500" src="Images\NitishFaceExpression.gif" alt="Sample Face Expression Image">
 </p>
 
 ## Project Tasks
