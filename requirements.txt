@@ -112,7 +112,7 @@ traitlets==4.3.3
 twine==3.2.0
 typing==3.7.4.1
 typing-extensions==3.7.4.2
-urllib3==1.25.9
+urllib3==1.26.5
 ushlex==0.99.1
 voila==0.1.20
 wcwidth==0.2.5
